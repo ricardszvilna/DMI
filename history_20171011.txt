@@ -1,0 +1,46 @@
+    1  #!/bin/bash
+    2  add-shell
+    3  shell_operators.sh
+    4  GNU
+    5  GNU nano 2.2.6
+    6  
+    7  ls - la
+    8  ls-la
+    9  help
+   10  shell builtin 
+   11  lshell
+   12  nano shell operation 
+   13  ls-la
+   14  ls - ls
+   15  ls -la
+   16  ls -l
+   17  nano shell_operators.sh 
+   18  ls -l
+   19  chmod 744 shell_operators.sh 
+   20  ls -l
+   21  ./shell_operators.sh 
+   22  nano shell_operators.sh 
+   23  ./shell_operators.sh 
+   24  nano shell_operators.sh 
+   25  ./shell_operators.sh 
+   26  nano shell_operators.sh 
+   27  ./shell_operators.sh 
+   28  nano shell_operators.sh 
+   29  ./shell_operators.sh 
+   30  nano shell_operators.sh 
+   31  nano gitupload 
+   32  ls -la
+   33  ls -l
+   34  mkdir DMI
+   35  mv gitupload shell_operators.sh DMI/
+   36  ls -l
+   37  cd DMI
+   38  ls -la
+   39  mv gitupload git-upload 
+   40  nano gitupload 
+   41  nano git-upload 
+   42  ls -la
+   43  chmod 744 git-upload 
+   44  ls -la
+   45  cat git-upload 
+   46  history > history_20171011.txt

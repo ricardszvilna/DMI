@@ -1,0 +1,11 @@
+#!/bin/bash
+if [ $# == 1 ]
+then 
+git init
+git config --global user.email ricards.toms.zvilna@gmail.com
+git add .
+#git commit -m "20171011
+git commit -m $1
+git remote add origin https://github.com/ricardszvilna/DMI.git
+git push origin master
+fi 
